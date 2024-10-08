@@ -1,0 +1,6 @@
+[submodule "B1/B1/Automne/11x001_tp"]
+	path = B1/B1/Automne/11x001_tp
+	url = git@github.com:SkeyloS/11x001_tp.git
+[submodule "B1/Automne/11x001_tp"]
+	path = B1/Automne/11x001_tp
+	url = git@github.com:SkeyloS/11x001_tp.git
